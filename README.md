@@ -1,5 +1,5 @@
 # Disclaimer
-Unforutunately, Kahoot changed their site to the point where the original extension didn't work anymore. This is an amateur's attempt to make the extension functional again; there is absolutely no guaruntee this will come to fruition.
+Unforutunately, Kahoot changed their site to the point where the [original extension](https://github.com/lkellar/kahoot) didn't work anymore. This is an amateur's attempt to make the extension functional again; there is absolutely no guarantee this will come to fruition.
 
 The content below has been kept for archival purposes.
 
